@@ -1,0 +1,1 @@
+Demo project to drive [Wavshare SSD1327 OLED display](https://www.waveshare.com/wiki/1.5inch_OLED_Module) using LVGL. Check instructions on the display's wiki on how to connect/configure the display to work on raspberrypi
